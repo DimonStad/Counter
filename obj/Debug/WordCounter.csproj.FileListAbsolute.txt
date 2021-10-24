@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\Дмитрий\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\Дмитрий\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\Дмитрий\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\Дмитрий\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\Дмитрий\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\Дмитрий\Desktop\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\Дмитрий\Desktop\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\Дмитрий\Desktop\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\Дмитрий\Desktop\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
