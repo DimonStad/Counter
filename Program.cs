@@ -34,7 +34,7 @@ namespace WordCounter
 
                 }
 
-                File.WriteAllText("args[1]", sout.ToString(), Encoding.UTF8);
+                File.WriteAllText(args[1], sout.ToString(), Encoding.UTF8);
 
                 Console.WriteLine(sout);
 
